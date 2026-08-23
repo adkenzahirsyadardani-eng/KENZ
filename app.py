@@ -1123,6 +1123,16 @@ const CONFIG = {
         },
 
         {
+            title: "Bio Update",
+
+            description: "Custom Bio Editor",
+
+            icon: "fas fa-pen",
+
+            url: "https://bio-sable-rho.vercel.app/"
+        },
+
+        {
             title:
                 "Item Default Profile",
 
