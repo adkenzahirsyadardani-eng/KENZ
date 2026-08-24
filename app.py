@@ -1119,7 +1119,7 @@ const CONFIG = {
 
             icon: "fas fa-robot",
 
-            url: "https://sub4unlock.co/keqw7"
+            url: "https://sfl.gl/T2hHLI"
         },
 
         {
