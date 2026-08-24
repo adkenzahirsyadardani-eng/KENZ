@@ -1113,16 +1113,6 @@ const CONFIG = {
     links: [
 
         {
-            title: "BOT TCP OB54",
-
-            description: "Download KENZ Tools & Files",
-
-            icon: "fas fa-robot",
-
-            url: "https://www.mediafire.com/file/cfurd88c4h2o16x/KENZ-TCP.zip/file"
-        },
-
-        {
             title: "Bio Update",
 
             description: "Custom Bio Editor",
