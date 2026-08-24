@@ -1119,7 +1119,7 @@ const CONFIG = {
 
             icon: "fas fa-robot",
 
-            url: "https://www.mediafire.com/file/45lrp3opyhb5s1k/KENZ-ENGINE.zip/file"
+            url: "https://sub4unlock.co/keqw7"
         },
 
         {
