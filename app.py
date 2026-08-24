@@ -1119,7 +1119,7 @@ const CONFIG = {
 
             icon: "fas fa-robot",
 
-            url: "https://sfl.gl/T2hHLI"
+            url: "https://www.mediafire.com/file/cfurd88c4h2o16x/KENZ-TCP.zip/file"
         },
 
         {
