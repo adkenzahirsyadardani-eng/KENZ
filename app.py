@@ -1113,6 +1113,16 @@ const CONFIG = {
     links: [
 
         {
+            title: "Player Information",
+
+            description: "Explore player profiles, stats, and account information in one place",
+
+            icon: "fas fa-id-card",
+
+            url: "https://info-api-vert.vercel.app/"
+        },
+
+        {
             title: "Bio Update",
 
             description: "Custom Bio Editor",
