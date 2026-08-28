@@ -1113,6 +1113,16 @@ const CONFIG = {
     links: [
 
         {
+            title: "Free Fire Debug",
+
+            description: "Debug in game",
+
+            icon: "fas fa-file",
+
+            url: "https://www.mediafire.com/file/9c2785aku3conrl/debug.zip/file"
+        },
+
+        {
             title: "Player Information",
 
             description: "Explore player profiles, stats, and account information in one place",
