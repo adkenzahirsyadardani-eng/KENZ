@@ -1113,6 +1113,16 @@ const CONFIG = {
     links: [
 
         {
+            title: "𝙎𝙊𝙈𝘼𝙉𝙎𝙃𝙐 𝙋𝙍𝙊𝙅𝙀𝘾𝙏 𝙁𝙁 𝟮𝟬𝟮𝟮",
+
+            description: "FF OLD + DEBUG",
+
+            icon: "fas fa-cogs",
+
+            url: "https://www.mediafire.com/file/x5uyj2w7k6azvlp/FREE-FIRE-OLD-2022.zip/file"
+        },
+
+        {
             title: "Free Fire Debug",
 
             description: "Debug in game",
